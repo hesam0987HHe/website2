@@ -1,4 +1,5 @@
 body {
+  background: #000;
   background-image: url(b.gif);
   color: #eee;
   background-attachment: fixed;
